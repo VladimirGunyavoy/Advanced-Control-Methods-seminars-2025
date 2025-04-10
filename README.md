@@ -2,6 +2,10 @@
 
 This repository contains materials for the Advanced Control Methods course seminars. The course explores various control theory concepts through practical implementations and simulations.
 
+![Stable Focus](seminars/seminar_3_stability_analysis/region_1_simulation.png)
+
+> Throughout this course, your focus should be stable - just like Region 1 above!
+
 ## Repository Structure
 
 The repository is organized into three seminar folders, each focusing on different aspects of control theory:
