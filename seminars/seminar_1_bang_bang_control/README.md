@@ -18,6 +18,14 @@ Bang-bang control is a type of optimal control that switches abruptly between ex
 - **Switching Curve**: The curve in phase space where the control switches between extremes
 - **Time-Optimal Control**: Achieving the desired state in minimum time
 
+## Visualization
+
+Here's an animation showing the full bang-bang control solution:
+
+![Bang-Bang Control Solution](images/full_solution.gif)
+
+This animation demonstrates how the control input switches between extremes at the optimal switching time, bringing the system to the target state in minimal time.
+
 ## Mathematical Foundation
 
 For a second-order system with position `p` and velocity `v`, the bang-bang control aims to bring the system to `(0,0)` in minimum time. The control parameters are calculated as follows:

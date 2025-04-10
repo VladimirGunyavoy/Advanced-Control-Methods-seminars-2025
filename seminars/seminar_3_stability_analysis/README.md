@@ -22,6 +22,14 @@ Stability analysis is a fundamental concept in control theory that helps underst
 - **Phase Portraits**: Visualization of system trajectories in state space
 - **Stability Regions**: Parameter spaces where the system exhibits different stability behaviors
 
+## Equilibrium Types Visualization
+
+The following image shows all eight equilibrium types analyzed in this seminar:
+
+![Equilibrium Types Collage](equilibrium_types_collage.png)
+
+This collage demonstrates the different trajectory patterns that emerge around equilibrium points, depending on the system parameters and resulting eigenvalues.
+
 ## Equilibrium Types
 
 The code analyzes 8 different equilibrium types:
